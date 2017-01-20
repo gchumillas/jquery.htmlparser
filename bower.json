@@ -1,0 +1,27 @@
+{
+  "name": "jquery.htmlparser",
+  "version": "0.1.0",
+  "homepage": "https://github.com/soloproyectos-js/jquery.htmlparser",
+  "authors": [
+    "Gonzalo Chumillas <gchumillas@email.com>",
+    "Sam Blowes",
+    "John Resig",
+    "Erik Arvidsson"
+  ],
+  "description": "A jQuery pluging to parse, fix or transform an HTML/XML documents.",
+  "main": "dist/jquery.htmlparser.min.js",
+  "keywords": [
+    "jquery",
+    "html",
+    "parser"
+  ],
+  "license": "Apache License 2.0",
+  "ignore": [
+    "**/.*",
+    "vendor",
+    "test"
+  ],
+  "dependencies": {
+    "jquery": "~2.0"
+  }
+}
