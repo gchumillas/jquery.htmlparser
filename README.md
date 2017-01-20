@@ -1,6 +1,7 @@
 jQuery.htmlParser plugin
 ========================
 
+
 This plugin can parse, clean or transform an HTML/XML document.
 
 This code was originally written by Erik Arvidsson:  
