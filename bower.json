@@ -9,7 +9,7 @@
     "Erik Arvidsson"
   ],
   "description": "A jQuery pluging to parse, fix and transform an HTML/XML documents.",
-  "main": "dist/jquery.htmlparser.min.js",
+  "main": "src/jquery.htmlparser.js",
   "keywords": [
     "jquery",
     "html",
