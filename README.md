@@ -1,15 +1,7 @@
 jQuery.htmlParser plugin
 ========================
 
-This plugin can parse, clean or transform an HTML/XML document.
-
-This code was originally written by Erik Arvidsson:  
-http://erik.eae.net/simplehtmlparser/simplehtmlparser.js  
-and then changed by John Resig:  
-http://ejohn.org/files/htmlparser.js  
-and then changed by Sam Blowes:  
-https://github.com/blowsie/Pure-JavaScript-HTML5-Parser  
-and then changed by me.
+A jQuery plugin to parse, clean or transform HTML/XML documents.
 
 ### Installation
 Download the jquery.htmlparser.js file in your project.
