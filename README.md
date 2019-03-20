@@ -1,4 +1,4 @@
-jQuery.htmlParser plugin
+$.htmlParser plugin
 ========================
 
 A jQuery plugin to parse, clean or transform HTML/XML documents.
